@@ -1,4 +1,4 @@
-## 👋  Olá sou o Danillo
+## 👋  Olá, sou o Danillo
 ## 🌱  Estudando............
 ## 🎲 🎮 🎲 🎮 🎲 🎮 
 
