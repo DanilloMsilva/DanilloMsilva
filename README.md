@@ -2,6 +2,8 @@
 ## 🌱  Estudando............
 ## 🎲 🎮 🎲 🎮 🎲 🎮 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666666&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Salvador;I'm+20+years+old;I'm+from+Brazil;I'm+a+Back-end+developer;救世主)](https://git.io/typing-svg)
+
 <div>
   
   <a href="https://github.com/DanilloMsilva">
