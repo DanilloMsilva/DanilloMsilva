@@ -2,7 +2,7 @@
 ## 🌱  Estudando............
 ## 🎲 🎮 🎲 🎮 🎲 🎮 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666666&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+nome+é+Danillo;I'm+20+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666666&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Danillo...;Tenho+20+anos;Sou+do+Brasil!)](https://git.io/typing-svg)
 
 <div>
   
