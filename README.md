@@ -15,9 +15,9 @@
       <td style="vertical-align: top;">
         <a href="https://github.com/DanilloMsilva" style="text-decoration: none;">
           
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DanilloMsilva&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br"/>
+   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DanilloMsilva&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br"/>
    </a><br><br>
-   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloMsilva&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloMsilva&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
       </td> 
       <td align="center" style="vertical-align: middle;">
         <img src="fotoreadme.png" alt="Minha Foto" height="180px" style="border: 3px solid #FF33CC; border-radius: 15px; box-shadow: 0 0 20px #FF33CC;" />
@@ -43,7 +43,14 @@
 
   <h3 align="left">Contatos:</h3>
    
-  <a href = "mailto:danillosilvamacario2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danillo-silva-622b4a1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://mail.google.com/mail/?view=cm&to=danillosilvamacario2002@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/danillo-macário-da-silva-622b4a1b8/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+  
 
 </div>
