@@ -7,15 +7,17 @@
 
 
 <div align="center" style="background-color:#0A0C10; padding: 20px; border-radius: 15px; max-width: 900px; margin: auto; box-shadow: 0 0 15px #FF00FF, 0 0 30px #00FFFF;">
+  
   <h2 style="color: #FF66CC; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   </h2>
   <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td style="vertical-align: top;">
         <a href="https://github.com/DanilloMsilva" style="text-decoration: none;">
-          <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DanilloMsilva&theme=dark&show_icons=true&hide_border=false&count_private=true" style="border-radius: 12px; box-shadow: 0 0 10px #FF33CC;" />
-        </a><br><br>
-          <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanilloMsilva&layout=compact&hide_border=true&title_color=666666&bg_color=0A0C10&text_color=f8f8f2" style="border-radius: 12px; box-shadow: 0 0 10px #33CCFF;" />
+          
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DanilloMsilva&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br"/>
+   </a><br><br>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloMsilva&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
       </td> 
       <td align="center" style="vertical-align: middle;">
         <img src="fotoreadme.png" alt="Minha Foto" height="180px" style="border: 3px solid #FF33CC; border-radius: 15px; box-shadow: 0 0 20px #FF33CC;" />
