@@ -1,9 +1,8 @@
-## 👋  Olá, sou o Danillo
-## 🌱  Estudando............
-## 🎲 🎮 🎲 🎮 🎲 🎮 
+## 👩🏻‍💻 Danillo Silva
+## 🌱 Estudando ...
+## 🎲 🎮 🎲 🎮 🎲 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666666&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Danillo.....;Tenho+22+anos;Sou+do+Brasil!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Danillo!+Tenho+22+anos,+Estudo+T.I.;Atuo+na+área+de+tecnologia+e+sou+um+entusiasta.;Seja+Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 
 
