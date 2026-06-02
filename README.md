@@ -9,12 +9,12 @@
 <div align="center">
 <table>
   <tr>
-    <!-- Coluna esquerda: Status do GitHub -->
+    <!-- Coluna esquerda: Status do GitHub 
     <td>
       <img height="700px" width="400px" src="https://github-readme-stats.vercel.app/api?username=DanilloMsilva&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" alt="Status GitHub"/>
       <br>
       <img height="700px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloMsilva&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens"/>
-    </td>
+    </td> -->
 <!-- Coluna direita: Foto -->
     <td>
       <img src="fotoreadme.png" alt="Minha Foto" height="600px" widht="600px"/>
